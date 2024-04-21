@@ -4,7 +4,7 @@
 1.   npm create vite@latest .    ===> install vite (React -> JavaScript)
 2.   npm i    ==> install modules
 
-# npm run dev     ==>  start 
+# start    ==> cd frontend ==>  npm run dev 
 # npm run server  ==>  server start
   
 3. ==> npm install `express` `dotenv` `cookie-parser` `bcryptjs` `mongoose` `socket.io` `jsonwebtoken`
